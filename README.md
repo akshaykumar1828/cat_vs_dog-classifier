@@ -1,2 +1,19 @@
-# cat_vs_dog-classifier
-CNN-based binary image classifier for Cats vs Dogs using TensorFlow/Keras with data augmentation, regularization, and adaptive learning rate techniques for improved performance
+# 🐶🐱 Cat vs Dog Classifier
+
+A CNN-based image classification model deployed using FastAPI and Render.
+
+## 🚀 Live API
+
+Base URL:
+https://cat-vs-dog-classifier-1-jy5y.onrender.com
+
+## 📌 API Endpoint
+
+POST /predict
+
+Upload an image file to get prediction.
+
+## 📖 API Docs
+
+https://cat-vs-dog-classifier-1-jy5y.onrender.com/docs
+
